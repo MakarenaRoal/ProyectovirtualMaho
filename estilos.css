@@ -1,0 +1,29 @@
+.encabezado-img {
+    background-image: url(imagenes/Alto-Hospicio.jpg);
+    height: 499px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+.col-8 {
+ background-color: #455A64;
+}
+
+p.encabezado-p{
+    
+    text-align: center;
+    font-size: x-large;
+    column-gap: 20px;
+    
+    
+}
+.encabezado-1{
+    text-align: center;
+}
+.encabezado-2 {
+    text-align: center;
+}
+
